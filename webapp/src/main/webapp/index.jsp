@@ -25,6 +25,7 @@
     <td>80</td>
   </tr>
 </table>
+<br>
   </div>
 
   <div class="container" style="background-color:white">
