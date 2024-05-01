@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h2>Subscribe to our Newsletter</h2>
+    <h2>Subscribe to this Newsletter Now!</h2>
     <p>Lorem ipsum..</p>
     <br>
     <table class="center">
